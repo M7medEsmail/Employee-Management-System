@@ -1,0 +1,17 @@
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.csproj.AssemblyReference.cache
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.AssemblyInfoInputs.cache
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.AssemblyInfo.cs
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Repository.deps.json
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Repository.runtimeconfig.json
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Repository.dll
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Repository.pdb
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Domain.dll
+E:\FCI\My_Project\Employment System\Employment System.Repository\bin\Debug\net8.0\Employment System.Domain.pdb
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employme.066FA98D.Up2Date
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.dll
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\refint\Employment System.Repository.dll
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.pdb
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\Employment System.Repository.genruntimeconfig.cache
+E:\FCI\My_Project\Employment System\Employment System.Repository\obj\Debug\net8.0\ref\Employment System.Repository.dll

@@ -1,0 +1,17 @@
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Services.deps.json
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Services.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Services.pdb
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.AssemblyInfoInputs.cache
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.AssemblyInfo.cs
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\refint\Employment System.Services.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.pdb
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\ref\Employment System.Services.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employment System.Services.csproj.AssemblyReference.cache
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Domain.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Domain.pdb
+E:\FCI\My_Project\Employment System\Employment System.Services\obj\Debug\net8.0\Employme.856AEB75.Up2Date
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Repository.dll
+E:\FCI\My_Project\Employment System\Employment System.Services\bin\Debug\net8.0\Employment System.Repository.pdb
